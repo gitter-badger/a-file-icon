@@ -4,6 +4,8 @@
 
 # [![A File Icon][img-logo]][downloads]
 
+[![Join the chat at https://gitter.im/a-file-icon/Lobby](https://badges.gitter.im/a-file-icon/Lobby.svg)](https://gitter.im/a-file-icon/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Release][img-release]][release]
 [![Downloads][img-downloads]][downloads]
 [![Stars][img-stars]][stars]
